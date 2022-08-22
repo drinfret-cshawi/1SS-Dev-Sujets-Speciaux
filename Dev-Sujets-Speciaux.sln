@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto1", "Crypto1\Crypto1.csproj", "{BF6ED2D2-53BF-420E-B47A-039FC48594F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLib", "CryptoLib\CryptoLib.csproj", "{E67653D3-A584-43F5-A2A7-CAB5FF11A287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto2", "Crypto2\Crypto2.csproj", "{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6ED2D2-53BF-420E-B47A-039FC48594F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6ED2D2-53BF-420E-B47A-039FC48594F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6ED2D2-53BF-420E-B47A-039FC48594F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6ED2D2-53BF-420E-B47A-039FC48594F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67653D3-A584-43F5-A2A7-CAB5FF11A287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67653D3-A584-43F5-A2A7-CAB5FF11A287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67653D3-A584-43F5-A2A7-CAB5FF11A287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67653D3-A584-43F5-A2A7-CAB5FF11A287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
