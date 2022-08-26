@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLib", "CryptoLib\Cryp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto2", "Crypto2\Crypto2.csproj", "{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto3", "Crypto3\Crypto3.csproj", "{13862DE1-2201-4A87-B931-8BF93E5DCD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonData1", "JsonData1\JsonData1.csproj", "{06389163-458C-4C4D-994B-C83F65637CB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F973F66A-2D49-4D05-BE8E-450AAD9FA89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13862DE1-2201-4A87-B931-8BF93E5DCD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13862DE1-2201-4A87-B931-8BF93E5DCD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13862DE1-2201-4A87-B931-8BF93E5DCD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13862DE1-2201-4A87-B931-8BF93E5DCD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06389163-458C-4C4D-994B-C83F65637CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06389163-458C-4C4D-994B-C83F65637CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06389163-458C-4C4D-994B-C83F65637CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06389163-458C-4C4D-994B-C83F65637CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
