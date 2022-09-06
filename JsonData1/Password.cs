@@ -1,5 +1,3 @@
-using System.Text.Json.Serialization;
-
 namespace JsonData1;
 
 public class Password
