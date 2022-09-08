@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteExamples", "SQLiteExa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLExamples", "MySQLExamples\MySQLExamples.csproj", "{048A78E6-9066-4DE0-9951-8A72763E052E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepo1", "DataRepo1\DataRepo1.csproj", "{A0D0B01D-F558-402A-83FC-34C1F6A73BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepoApp1", "DataRepoApp1\DataRepoApp1.csproj", "{BA10A2B8-CB9C-4A26-B650-2CC9C2D219F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{048A78E6-9066-4DE0-9951-8A72763E052E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048A78E6-9066-4DE0-9951-8A72763E052E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048A78E6-9066-4DE0-9951-8A72763E052E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D0B01D-F558-402A-83FC-34C1F6A73BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D0B01D-F558-402A-83FC-34C1F6A73BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D0B01D-F558-402A-83FC-34C1F6A73BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D0B01D-F558-402A-83FC-34C1F6A73BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA10A2B8-CB9C-4A26-B650-2CC9C2D219F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA10A2B8-CB9C-4A26-B650-2CC9C2D219F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA10A2B8-CB9C-4A26-B650-2CC9C2D219F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA10A2B8-CB9C-4A26-B650-2CC9C2D219F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

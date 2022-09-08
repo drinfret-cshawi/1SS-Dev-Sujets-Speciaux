@@ -21,7 +21,7 @@ create table passwords
     unique (user_id, site, login)
 );
 
-insert into passwords(user_id, site, username, password)
+insert into passwords(user_id, site, login, password)
 VALUES (1, 'google.com', 'denis', '12345678'),
        (1, 'facebook.com', 'denis', '87654321');
 

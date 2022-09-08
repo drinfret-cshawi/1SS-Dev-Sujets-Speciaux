@@ -8,7 +8,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var connectionString = "Host=localhost;Username=passman;Password=passman;Database=passman";
+        var connectionString = "Host=localhost;Username=denis;Password=denis;Database=denis";
 
         using var con = new NpgsqlConnection(connectionString);
         con.Open();

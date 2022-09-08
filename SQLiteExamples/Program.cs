@@ -53,7 +53,7 @@ public class Program
                     reader.GetString(1), 
                     reader.GetString(2),
                     reader.GetString(3),
-                    Convert.IsDBNull(reader[4]) ? "<null>" :reader.GetString(4));
+                    Convert.IsDBNull(reader[4]) ? "<null>" : reader.GetString(4));
             }
             reader.Close();
             
