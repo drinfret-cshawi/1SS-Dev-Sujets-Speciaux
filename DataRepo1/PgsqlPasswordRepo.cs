@@ -61,7 +61,7 @@ public class PgsqlPasswordRepo : PasswordRepo
                     reader.GetInt32(0),
                     reader.GetInt32(1),
                     reader.GetString(2),
-                    reader.GetString(3),
+                    GetStringOrNull(reader, 3),
                     reader.GetString(4)));
             }
 
@@ -70,6 +70,7 @@ public class PgsqlPasswordRepo : PasswordRepo
 
         return results;
     }
+
 
     public override List<Password> GetPasswords(int userId)
     {
@@ -88,7 +89,7 @@ public class PgsqlPasswordRepo : PasswordRepo
                     reader.GetInt32(0),
                     reader.GetInt32(1),
                     reader.GetString(2),
-                    reader.GetString(3),
+                    GetStringOrNull(reader, 3),
                     reader.GetString(4)));
             }
 

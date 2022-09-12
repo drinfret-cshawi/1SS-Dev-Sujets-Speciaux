@@ -48,11 +48,11 @@ public class Program
             var reader = cmd.ExecuteReader();
             while(reader.Read())
             {
-                Console.WriteLine("{0} {1} {2} {3} {4}", 
-                    reader.GetInt32(0), 
-                    reader.GetString(1), 
-                    reader.GetString(2),
-                    reader.GetString(3),
+                Console.WriteLine("{0} {1} {2} {3} {4}",
+                    reader.GetInt32(0),
+                    reader.GetString(1),
+                    Convert.IsDBNull(reader[2]) ? "<null>" : reader.GetString(2),
+                    reader.GetString(3), 
                     Convert.IsDBNull(reader[4]) ? "<null>" : reader.GetString(4));
             }
             reader.Close();
