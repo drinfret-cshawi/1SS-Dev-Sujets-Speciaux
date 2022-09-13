@@ -28,6 +28,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepo3", "DataRepo3\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepoApp3", "DataRepoApp3\DataRepoApp3.csproj", "{B078A9CA-8373-411C-AAF2-7B2211161C36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepo4", "DataRepo4\DataRepo4.csproj", "{2EDEDD4C-7725-449D-AE49-4654DD204E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepoApp4", "DataRepoApp4\DataRepoApp4.csproj", "{1C269448-FAEF-415B-8D1C-D75A243BEF1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +94,13 @@ Global
 		{B078A9CA-8373-411C-AAF2-7B2211161C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B078A9CA-8373-411C-AAF2-7B2211161C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B078A9CA-8373-411C-AAF2-7B2211161C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDEDD4C-7725-449D-AE49-4654DD204E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDEDD4C-7725-449D-AE49-4654DD204E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDEDD4C-7725-449D-AE49-4654DD204E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDEDD4C-7725-449D-AE49-4654DD204E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C269448-FAEF-415B-8D1C-D75A243BEF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C269448-FAEF-415B-8D1C-D75A243BEF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C269448-FAEF-415B-8D1C-D75A243BEF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C269448-FAEF-415B-8D1C-D75A243BEF1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
