@@ -8,7 +8,7 @@ create table users
 );
 
 insert into users (username, fullname, password, email)
-values ('denis', 'Denis Rinfret', '12345678', 'drinfret@cshawi.ca'),
+values ('denis', 'Denis Rinfret', '12345678', 'drinfret@example.com'),
        ('alice', 'Alice', '12123232', null);
 
 create table passwords
