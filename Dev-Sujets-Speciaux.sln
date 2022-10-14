@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCryptoLib", "TestCrypto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCryptoLib2", "TestCryptoLib2\TestCryptoLib2.csproj", "{9C846FEE-1006-4754-AD5F-72E57C2E7E1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAsynchApp", "SimpleAsynchApp\SimpleAsynchApp.csproj", "{48FFD2DD-1C75-48F2-A26F-316969E18F4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{9C846FEE-1006-4754-AD5F-72E57C2E7E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C846FEE-1006-4754-AD5F-72E57C2E7E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C846FEE-1006-4754-AD5F-72E57C2E7E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FFD2DD-1C75-48F2-A26F-316969E18F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FFD2DD-1C75-48F2-A26F-316969E18F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FFD2DD-1C75-48F2-A26F-316969E18F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FFD2DD-1C75-48F2-A26F-316969E18F4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
